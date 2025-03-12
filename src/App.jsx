@@ -1,9 +1,9 @@
-import Header from "./Header";
+import CharacterListHP from "./components/CharacterList";
 
 function App() {
   return (
     <>
-      <Header></Header>
+      <CharacterListHP />
     </>
   );
 }
